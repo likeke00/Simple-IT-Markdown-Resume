@@ -12,7 +12,7 @@
 
 （1）安装 Markdown 编辑软件，推荐使用 [Typora](https://www.typora.io/) 编辑器。
 
-（2）下载本项目，修改 [Resume.md](Resume.md) 文件即可。
+（2）下载本项目，修改 [Resume.md](Resume.md) 文件即可。dd
 
 （3）将 style 文件夹下的所有的.css 复制到 Typora 的主题文件夹
 
